@@ -28,8 +28,3 @@ By providing these two methods, we aim to cater to a wide range of users, from t
 Explore our project on GitHub to access the code and documentation, and start leveraging the power of resume parsing using the method that best suits your requirements. Simplify your resume processing tasks and unlock the potential of automated data extraction for enhanced efficiency and productivity.
 
 # Note: Don't forget to check out our comprehensive guide on building a resume parser using SpaCy, which provides detailed insights and instructions for implementing the parser effectively.
-
-
-joplin > 
-# Resume Parsing using spaCy
-09/11/2023 17:24
